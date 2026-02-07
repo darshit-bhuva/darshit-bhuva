@@ -1,17 +1,59 @@
-<h1 align="center">Hi 🙋, I'm Darshit Bhuva</h1>
-<h3 align="left">Innovative and detail-oriented DevOps Engineer @iTechOps with a Bachelor's degree in Information Technology from GTU. Passionate about leveraging cloud technologies to streamline operations and optimize efficiency. Proficient in managing Kubernetes clusters on AWS and Azure clouds, implementing best practices for cloud solutions, and orchestrating CI/CD pipelines with Jenkins. Skilled in Git management and proficient in creating and deploying Helm Charts. A quick learner with strong time management and critical thinking abilities. Let's connect! Open to new opportunities and collaborations in the DevOps and Cloud domain.</h3>
+<h1 align="center">Hey there 👋, I'm Darshit Bhuva</h1>
+<h3 align="center">DevOps & Cloud Engineer | Building Resilient Infrastructure at Scale</h3>
 
-
-<h3 align="left">- 📫 How to reach me:</h3>
-
-<p align="left">
-<a href="https://instagram.com/darshitbhuva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshitbhuva_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://darshitbhuva.lovable.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- <p align="left">
-<a href="https://instagram.com/darshitbhuva_" target="blank"><img align="center" src="" alt="darshitbhuva_" height="30" width="40" /></a>
-</p> -->
+---
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🚀 About Me
 
+I'm a **DevOps & Cloud Engineer** with **3+ years** of experience designing, automating, and managing production-grade cloud infrastructure. I specialize in **Kubernetes**, **CI/CD**, **Infrastructure as Code**, and **cloud migrations** across AWS, Azure, GCP, and OCI.
+
+- 🔭 Currently working at **WotNot Solutions** — managing multi-tenant K8s platforms for 50+ white-label clients
+- 🌍 Led a full **GCP → OCI cloud migration** with zero downtime
+- 🛡️ Passionate about **SRE practices**, incident management, and building self-healing systems
+- 📄 [View my Resume](https://darshitbhuva.lovable.app/resume)
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Cloud** | AWS · Azure · GCP · OCI |
+| **Containers & Orchestration** | Docker · Kubernetes · Helm · Istio |
+| **IaC & Config** | Terraform · CloudFormation · Ansible |
+| **CI/CD & GitOps** | GitHub Actions · Jenkins · ArgoCD |
+| **Observability** | Prometheus · Grafana · ELK · OpenTelemetry |
+| **Security** | HashiCorp Vault · mTLS · OIDC · IAM |
+| **Scripting** | Bash · Python · Linux · Git |
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **GCP to OCI Cloud Migration** | Migrated WotNot.io AI agent platform from GCP to OCI — zero downtime, improved cost efficiency |
+| **Multi-Tenant K8s Platform** | Designed isolated namespaces, resource quotas & network policies for 50+ clients |
+| **Zero-Trust Security** | Implemented service mesh, mTLS, OIDC & Vault-based secrets management |
+| **GitOps CI/CD Pipeline** | Built ArgoCD + GitHub Actions pipelines — 70% faster deployments with auto-rollbacks |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Infrastructure should be invisible — reliable, secure, and self-healing."</i>
+</p>
